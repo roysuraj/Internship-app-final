@@ -1,0 +1,4 @@
+#Sat Mar 13 11:27:42 IST 2021
+base.0=D\:\\robogo\\internship\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
